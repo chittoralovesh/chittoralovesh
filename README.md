@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Lovesh Chittora
 ========================================================================================================================================
 
-### Web Developer | AI/ML Enthusiast | Tech Explorer
+### Web Developer | AI/ML Enthusiast | Tech Enthusiast
 
 I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code.
 
