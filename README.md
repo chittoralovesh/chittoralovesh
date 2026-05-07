@@ -1,7 +1,25 @@
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Lovesh Chittora
-========================================================================================================================================
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0c1f52,100:0f2e7a&height=220&section=header&text=Lovesh%20Chittora&fontSize=52&fontColor=ffffff&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn)
 
-### Web Developer | AI/ML Enthusiast | Tech Enthusiast
+<div align="center">
+
+### ✦ Building Scalable AI & Full Stack Systems ✦
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chittoralovesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
+[![GitHub](https://img.shields.io/badge/GitHub-0f2e7a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
+[![Resume](https://img.shields.io/badge/Resume-60a5fa?style=for-the-badge&logo=googledocs&logoColor=white)](mailto:chittoralovesh@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chittoralovesh&color=0f2e7a&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code.
 
@@ -15,8 +33,14 @@ Let’s connect and build something meaningful.
 
 ---
 
-- 🌍 I'm based in India  
-- ✉️ You can contact me at **chittoralovesh@gmail.com**
+## 🔨 Featured Projects
+
+| Project | Tech Stack | Highlight |
+|--------|-----------|-----------|
+| [**Parampara Bazaar**](https://github.com/chittoralovesh/ParamparaBazaar) | Java, Spring Boot, React, PostgreSQL | AI-powered bargaining engine, 25% latency reduction |
+| [**FinLoan-AI**](https://github.com/chittoralovesh/FinLoan-AI) | Spring Boot, React, PostgreSQL, ML | Budget accuracy improved by 30% |
+| [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Solidity, IPFS, Spring Boot, MetaMask | Tamper-proof blockchain certificate verification |
+| [**Stress Analyzer**](https://github.com/chittoralovesh/StressAnalyzer) | Spring Boot, React, ML | Real-time stress detection with 90% uptime |
 
 ---
 
@@ -51,18 +75,25 @@ Let’s connect and build something meaningful.
 
 ---
 
-## 🌐 Socials
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://www.github.com/chittoralovesh"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a>
-<a href="https://www.linkedin.com/in/loveshchittora"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a>
-<a href="https://instagram.com/_lovesh06"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chittoralovesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittoralovesh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
-<a href="http://www.github.com/chittoralovesh">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&stroke=a855f7&background=1c1917&ring=64748b&fire=64748b&currStreakNum=a855f7&currStreakLabel=64748b&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chittoralovesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2e7a,50:0c1f52,100:060d1f&height=100&section=footer)
