@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ✦ Building Scalable AI & Full Stack Systems ✦
+### ✦ Developing Modern AI-Powered Applications ✦
 
 <br/>
 
