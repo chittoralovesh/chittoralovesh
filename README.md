@@ -9,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chittoralovesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
 [![GitHub](https://img.shields.io/badge/GitHub-0f2e7a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
-[![Resume](https://img.shields.io/badge/Resume-60a5fa?style=for-the-badge&logo=googledocs&logoColor=white)](mailto:chittoralovesh@gmail.com)
 
 <br/>
 
