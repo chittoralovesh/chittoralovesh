@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0c1f52,100:0f2e7a&height=220&section=header&text=Lovesh%20Chittora&fontSize=52&fontColor=ffffff&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+AI+Applications" />
+</p>
 <div align="center">
 
 ### ✦ Developing Modern AI-Powered Applications ✦
@@ -28,18 +30,18 @@ I believe in continuous learning, consistency, and hands-on project building as 
 
 I am open to internships, collaborations, and opportunities where I can contribute and further develop my skills.
 
-Let’s connect and build something meaningful.
+Let's connect and build something meaningful.
 
 ---
 
 ## 🔨 Featured Projects
 
-| Project | Tech Stack | Highlight |
-|--------|-----------|-----------|
-| [**Parampara Bazaar**](https://github.com/chittoralovesh/ParamparaBazaar) | Java, Spring Boot, React, PostgreSQL | AI-powered bargaining engine, 25% latency reduction |
-| [**FinLoan-AI**](https://github.com/chittoralovesh/FinLoan-AI) | Spring Boot, React, PostgreSQL, ML | Budget accuracy improved by 30% |
-| [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Solidity, IPFS, Spring Boot, MetaMask | Tamper-proof blockchain certificate verification |
-| [**Stress Analyzer**](https://github.com/chittoralovesh/StressAnalyzer) | Spring Boot, React, ML | Real-time stress detection with 90% uptime |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Parampara Bazaar**](https://github.com/chittoralovesh/ParamparaBazaar) | AI-powered e-commerce platform with real-time bargaining engine | Java, Spring Boot, React, PostgreSQL |
+| [**FinLoan-AI**](https://github.com/chittoralovesh/FinLoan-AI) | Smart loan eligibility and budget prediction system | Spring Boot, React, ML |
+| [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Blockchain-based certificate verification using IPFS & Solidity | Solidity, IPFS, Spring Boot |
+| [**Stress Analyzer**](https://github.com/chittoralovesh/StressAnalyzer) | AI-driven real-time stress monitoring application | React, Spring Boot, ML |
 
 ---
 
@@ -56,7 +58,6 @@ Let’s connect and build something meaningful.
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/><br>Node.js</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40"/><br>Express</td>
 </tr>
-
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/><br>HTML</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40"/><br>Next.js</td>
@@ -67,10 +68,15 @@ Let’s connect and build something meaningful.
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40"/><br>AWS</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40"/><br>Azure</td>
 </tr>
-
-
-</tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chittoralovesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</p>
 
 ---
 
@@ -78,6 +84,15 @@ Let’s connect and build something meaningful.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&theme=tokyonight&hide_border=true" width="48%" />
+  &nbsp;
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chittoralovesh&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="activity graph"/>
 </p>
 
 ---
