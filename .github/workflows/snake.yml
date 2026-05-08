@@ -3,19 +3,20 @@ name: Generate Snake
 on:
 schedule:
 - cron: "0 */12 * * *"
-
 workflow_dispatch:
 
 jobs:
-generate:
-permissions:
-contents: write
-
-```
+build:
 runs-on: ubuntu-latest
 
+permissions:
+  contents: write
+
 steps:
-  - name: Generate snake animation
+  - name: Checkout Repository
+    uses: actions/checkout@v4
+
+  - name: Generate Snake Animation
     uses: Platane/snk@v3
     with:
       github_user_name: chittoralovesh
@@ -23,11 +24,10 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Push snake animation
-    uses: crazy-max/ghaction-github-pages@v4
+  - name: Deploy Snake Animation
+    uses: peaceiris/actions-gh-pages@v3
     with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_branch: output
+      publish_dir: ./dist
+
