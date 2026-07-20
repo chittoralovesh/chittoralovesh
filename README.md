@@ -82,6 +82,13 @@ Let's connect and build something meaningful.
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chittoralovesh&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chittoralovesh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+
+<br><br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&hide_border=true&background=1A0B2E&border=E8397D&stroke=E8397D&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FFE8D6&currStreakNum=FFE8D6&sideNums=FFE8D6&dates=b899b2" width="48%" />
   &nbsp;
