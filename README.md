@@ -49,7 +49,7 @@ Let's connect and build something meaningful.
 | [**Parampara Bazaar**](https://github.com/chittoralovesh/ParamparaBazaar) | AI-powered e-commerce platform with real-time bargaining engine | Java, Spring Boot, React, PostgreSQL |
 | [**FinLoan-AI**](https://github.com/chittoralovesh/FinLoan-AI) | Smart loan eligibility and budget prediction system | Spring Boot, React, ML |
 | [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Blockchain-based certificate verification using IPFS & Solidity | Solidity, IPFS, Spring Boot |
-| [**Stress Sense AI**](https://github.com/chittoralovesh/Stress-sense-air) | AI-driven real-time stress monitoring application | React, Spring Boot, ML |
+| [**Stress Sense AI**](https://github.com/chittoralovesh/Stress-sense-ai) | AI-driven real-time stress monitoring application | React, Spring Boot, ML |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
 
