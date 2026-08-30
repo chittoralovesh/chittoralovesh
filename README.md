@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code.
+I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code
 
 My primary interests lie in Software Development and Machine Learning, where I aim to create impactful, real-world solutions. I have experience working with C++, Java, and Python, and I am currently exploring Deep Learning and advanced AI concepts.
 
