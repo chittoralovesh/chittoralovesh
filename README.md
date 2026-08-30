@@ -2,7 +2,7 @@
 <!-- 1. Create an "assets" folder in this repo and upload synthwave-banner.jpg (provided alongside this README) into it -->
 <!-- 2. The path below already points to that location — just push it and it will render -->
 
-qalign="center">
+<p qalign="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,35:6B2D5C,70:E8397D,100:FF6B35&height=210&section=header&text=Lovesh%20Chittora&fontSize=50&fontColor=FFE8D6&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn" width="100%"/>
 </p>
 
