@@ -28,7 +28,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
 
-## 🚀 About Me
+## 🚀 About ME
 
 I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code.
 
