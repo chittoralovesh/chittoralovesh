@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### ✦ Developing Modern AI-Powered Applications ✦
+### ✦ Developing Moder AI-Powered Applications ✦
 
 <br/>
 
