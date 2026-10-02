@@ -18,15 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          # colors match the README theme (Ink / Violet / Lavender / Peach)
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0E0E0E&color_dots=#EBEDF0,#D9D2F3,#B5A8E6,#7C67CA,#3E2F74
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E0BDAB&color_dots=#161B22,#2B224F,#3E2F74,#7C67CA,#B5A8E6
-
       # fail_on_error stops the run instead of publishing a "Something went wrong"
       # card, so the last good cards stay on the output branch.
       - name: Generate stats card
@@ -46,6 +37,17 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      # Runs after the stats cards: this Docker action writes as root, so if it
+      # created dist/ first, the stats action could not write into it.
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # colors match the README theme (Ink / Violet / Lavender / Peach)
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0E0E0E&color_dots=#EBEDF0,#D9D2F3,#B5A8E6,#7C67CA,#3E2F74
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E0BDAB&color_dots=#161B22,#2B224F,#3E2F74,#7C67CA,#B5A8E6
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
