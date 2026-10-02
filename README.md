@@ -1,5 +1,3 @@
-<!-- Theme colors are sampled from my avatar. See the "Profile Palette" section and assets/palette.svg -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18132A,100:7C67CA&height=210&section=header&text=Lovesh%20Chittora&fontSize=50&fontColor=E0BDAB&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn" width="100%" alt="Lovesh Chittora"/>
 </p>
@@ -143,32 +141,6 @@ Let's connect and build something meaningful.
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
-
-## 🎨 Profile Palette
-
-Every color on this page is taken from my avatar: the violet backdrop, the ink-black hair and sweater, the peach skin tone and the bone-white eyes, plus two shades of the violet for backgrounds and highlights.
-
-<p align="center">
-  <img src="assets/palette.svg" width="100%" alt="Profile palette: Ink #0E0E0E, Midnight #18132A, Violet #7C67CA, Lavender #B5A8E6, Peach #E0BDAB, Bone #DAD3D2"/>
-</p>
-
-<details>
-<summary><b>Hex codes</b></summary>
-
-<br/>
-
-| Color | Hex | Taken from | Used for |
-|-------|-----|------------|----------|
-| Ink | `#0E0E0E` | hair & sweater | GitHub badge, light-mode snake |
-| Midnight | `#18132A` | backdrop, deepened | card backgrounds, banner |
-| Violet | `#7C67CA` | backdrop | primary accent, banner, graph lines |
-| Lavender | `#B5A8E6` | backdrop, lifted | icons & labels on dark cards |
-| Peach | `#E0BDAB` | skin | titles, banner text, streak flame |
-| Bone | `#DAD3D2` | eyes | text on dark cards |
-
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C67CA,100:18132A&height=110&section=footer" width="100%"/>
