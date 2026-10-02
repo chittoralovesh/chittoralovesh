@@ -27,9 +27,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # colors match the avatar palette in the README (Ink / Violet / Lavender / Peach)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0E0E0E&color_dots=#EBEDF0,#D9D2F3,#B5A8E6,#7C67CA,#3E2F74
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E0BDAB&color_dots=#161B22,#2B224F,#3E2F74,#7C67CA,#B5A8E6
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

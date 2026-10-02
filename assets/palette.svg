@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="282" viewBox="0 0 900 282" role="img" aria-labelledby="t d">
+  <title id="t">Profile palette</title>
+  <desc id="d">Ink #0E0E0E, Midnight #18132A, Violet #7C67CA, Lavender #B5A8E6, Peach #E0BDAB, Bone #DAD3D2 — sampled from my GitHub avatar.</desc>
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.00" stop-color="#0E0E0E"/>
+      <stop offset="0.20" stop-color="#18132A"/>
+      <stop offset="0.40" stop-color="#7C67CA"/>
+      <stop offset="0.60" stop-color="#B5A8E6"/>
+      <stop offset="0.80" stop-color="#E0BDAB"/>
+      <stop offset="1.00" stop-color="#DAD3D2"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="282" rx="18" fill="#241D40"/>
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="28" y="44" font-size="13" font-weight="700" letter-spacing="3" fill="#B5A8E6">PROFILE PALETTE</text>
+    <text x="872" y="44" font-size="12" text-anchor="end" fill="#DAD3D2" fill-opacity="0.6">sampled from my avatar</text>
+    <rect x="28.0" y="72" width="129.0" height="128" rx="14" fill="#0E0E0E" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="40.0" y="186" font-size="13" font-weight="600" fill="#DAD3D2">#0E0E0E</text>
+    <text x="30.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Ink</text>
+    <text x="30.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">hair &amp; sweater</text>
+    <rect x="171.0" y="72" width="129.0" height="128" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="183.0" y="186" font-size="13" font-weight="600" fill="#DAD3D2">#18132A</text>
+    <text x="173.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Midnight</text>
+    <text x="173.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">backdrop, deepened</text>
+    <rect x="314.0" y="72" width="129.0" height="128" rx="14" fill="#7C67CA" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="326.0" y="186" font-size="13" font-weight="600" fill="#0E0E0E">#7C67CA</text>
+    <text x="316.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Violet</text>
+    <text x="316.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">backdrop</text>
+    <rect x="457.0" y="72" width="129.0" height="128" rx="14" fill="#B5A8E6" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="469.0" y="186" font-size="13" font-weight="600" fill="#0E0E0E">#B5A8E6</text>
+    <text x="459.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Lavender</text>
+    <text x="459.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">backdrop, lifted</text>
+    <rect x="600.0" y="72" width="129.0" height="128" rx="14" fill="#E0BDAB" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="612.0" y="186" font-size="13" font-weight="600" fill="#0E0E0E">#E0BDAB</text>
+    <text x="602.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Peach</text>
+    <text x="602.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">skin</text>
+    <rect x="743.0" y="72" width="129.0" height="128" rx="14" fill="#DAD3D2" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="755.0" y="186" font-size="13" font-weight="600" fill="#0E0E0E">#DAD3D2</text>
+    <text x="745.0" y="228" font-size="15" font-weight="700" fill="#DAD3D2">Bone</text>
+    <text x="745.0" y="248" font-size="11.5" fill="#B5A8E6" fill-opacity="0.85">eyes</text>
+  </g>
+  <rect x="28" y="264" width="844" height="4" rx="2" fill="url(#bar)"/>
+</svg>

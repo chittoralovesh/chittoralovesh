@@ -1,46 +1,45 @@
-<!-- ================= HERO — the artwork you uploaded, used as the actual banner ================= -->
-<!-- 1. Create an "assets" folder in this repo and upload synthwave-banner.jpg (provided alongside this README) into it -->
-<!-- 2. The path below already points to that location — just push it and it will render -->
+<!-- Theme colors are sampled from my avatar. See the "Profile Palette" section and assets/palette.svg -->
 
-<p qalign="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,35:6B2D5C,70:E8397D,100:FF6B35&height=210&section=header&text=Lovesh%20Chittora&fontSize=50&fontColor=FFE8D6&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18132A,100:7C67CA&height=210&section=header&text=Lovesh%20Chittora&fontSize=50&fontColor=E0BDAB&desc=Web%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=75&animation=fadeIn" width="100%" alt="Lovesh Chittora"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Java+%7C+Spring+Boot+%7C+React;Chasing+Horizons+in+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=7C67CA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Java+%7C+Spring+Boot+%7C+React;Chasing+Horizons+in+Code" alt="Full Stack Developer, AI/ML Engineer, Java | Spring Boot | React"/>
 </p>
 
 <div align="center">
 
 ### ✦ Developing Modern AI-Powered Applications ✦
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C67CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
+[![Gmail](https://img.shields.io/badge/Gmail-E0BDAB?style=for-the-badge&logo=gmail&logoColor=0E0E0E)](mailto:chittoralovesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0E0E0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
 
-[![Gmail](https://img.shields.io/badge/Gmail-E8397D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chittoralovesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
-[![GitHub](https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chittoralovesh&color=E8397D&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=chittoralovesh&color=7C67CA&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
-## 🚀 About Me
+## 👋 About Me
 
-I am a Computer Science student currently in my final year of BTech and passionate about building efficient and intelligent systems. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex problems and writing optimized code.
+<img align="right" src="https://avatars.githubusercontent.com/u/281591568?v=4" width="180" alt="avatar"/>
 
-My primary interests lie in Software Development and Machine Learning, where I aim to create impactful, real-world solutions. I have experience working with C++, Java, and Python, and I am currently exploring Deep Learning and advanced AI concepts.
+I'm a final-year B.Tech Computer Science student who loves building efficient, intelligent systems. A strong foundation in Data Structures & Algorithms means I enjoy tackling complex problems and writing optimized code.
 
-I believe in continuous learning, consistency, and hands-on project building as the key to growth in tech.
-
-I am open to internships, collaborations, and opportunities where I can contribute and further develop my skills.
+- 🎓 **Studying:** B.Tech in Computer Science (final year)
+- 💡 **Focus:** Software Development & Machine Learning
+- 🔭 **Exploring:** Deep Learning and advanced AI concepts
+- 🧰 **Comfortable with:** C++, Java & Python
+- 🌱 **Mindset:** continuous learning, consistency, hands-on projects
+- 🤝 **Open to:** internships, collaborations & new opportunities
 
 Let's connect and build something meaningful.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
 ## 🔨 Featured Projects
 
@@ -51,82 +50,126 @@ Let's connect and build something meaningful.
 | [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Blockchain-based certificate verification using IPFS & Solidity | Solidity, IPFS, Spring Boot |
 | [**Stress Sense AI**](https://github.com/chittoralovesh/Stress-sense-ai) | AI-driven real-time stress monitoring application | React, Spring Boot, ML |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
-## 🚀 Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 <table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40"/><br>C</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40"/><br>C++</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/><br>Java</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/><br>Python</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/><br>JavaScript</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/><br>React</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/><br>Node.js</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40"/><br>Express</td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/><br>HTML</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40"/><br>Next.js</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/><br>MongoDB</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40"/><br>MySQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/><br>PostgreSQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40"/><br>PyTorch</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40"/><br>AWS</td>
-<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40"/><br>Azure</td>
-</tr>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" title="C"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" title="C++"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" title="React"/>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+      </picture>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML" title="HTML"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" title="Node.js"/>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" title="Express"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI/ML &amp; Cloud</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" alt="PyTorch" title="PyTorch"/>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" title="AWS"/>
+      </picture>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" alt="Azure" title="Azure"/>
+    </td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chittoralovesh&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chittoralovesh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chittoralovesh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=18132A&title_color=E0BDAB&icon_color=B5A8E6&text_color=DAD3D2&ring_color=7C67CA" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chittoralovesh&layout=compact&hide_border=true&bg_color=18132A&title_color=E0BDAB&text_color=DAD3D2" alt="Top languages"/>
 
-<br><br>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&hide_border=true&background=1A0B2E&border=E8397D&stroke=E8397D&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FFE8D6&currStreakNum=FFE8D6&sideNums=FFE8D6&dates=b899b2" width="48%" />
-  &nbsp;
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chittoralovesh&hide_border=true&bg_color=1A0B2E&color=FF6B35&line=E8397D&point=FFE8D6&area=true&area_color=E8397D" width="95%" alt="activity graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chittoralovesh&hide_border=true&background=18132A&stroke=7C67CA&ring=7C67CA&fire=E0BDAB&currStreakLabel=E0BDAB&sideLabels=B5A8E6&currStreakNum=DAD3D2&sideNums=DAD3D2&dates=B5A8E6" width="48%" alt="GitHub streak"/>
 
 </div>
 
-<!-- ░░░ CONTRIBUTION SNAKE (generated by .github/workflows/snake.yml) ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
+
+## 📈 Activity
+
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chittoralovesh&hide_border=true&bg_color=18132A&color=B5A8E6&title_color=E0BDAB&line=7C67CA&point=E0BDAB&area=true&area_color=7C67CA" width="95%" alt="Activity graph"/>
+
+<!-- Contribution snake, generated by .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/chittoralovesh/chittoralovesh/output/github-contribution-grid-snake.svg" width="95%"/>
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
-## 🌐 Connect with Me
+## 🎨 Profile Palette
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loveshchittora)
-[![Gmail](https://img.shields.io/badge/Gmail-E8397D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chittoralovesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chittoralovesh)
-
-</div>
+Every color on this page is taken from my avatar: the violet backdrop, the ink-black hair and sweater, the peach skin tone and the bone-white eyes, plus two shades of the violet for backgrounds and highlights.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,35:E8397D,70:6B2D5C,100:1A0B2E&height=110&section=footer" width="100%"/>
+  <img src="assets/palette.svg" width="100%" alt="Profile palette: Ink #0E0E0E, Midnight #18132A, Violet #7C67CA, Lavender #B5A8E6, Peach #E0BDAB, Bone #DAD3D2"/>
+</p>
+
+<details>
+<summary><b>Hex codes</b></summary>
+
+<br/>
+
+| Color | Hex | Taken from | Used for |
+|-------|-----|------------|----------|
+| Ink | `#0E0E0E` | hair & sweater | GitHub badge, light-mode snake |
+| Midnight | `#18132A` | backdrop, deepened | card backgrounds, banner |
+| Violet | `#7C67CA` | backdrop | primary accent, banner, graph lines |
+| Lavender | `#B5A8E6` | backdrop, lifted | icons & labels on dark cards |
+| Peach | `#E0BDAB` | skin | titles, banner text, streak flame |
+| Bone | `#DAD3D2` | eyes | text on dark cards |
+
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C67CA,100:18132A&height=110&section=footer" width="100%"/>
 </p>
