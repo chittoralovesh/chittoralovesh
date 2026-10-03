@@ -43,10 +43,11 @@ Let's connect and build something meaningful.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Parampara Bazaar**](https://github.com/chittoralovesh/ParamparaBazaar) | AI-powered e-commerce platform with real-time bargaining engine | Java, Spring Boot, React, PostgreSQL |
-| [**FinLoan-AI**](https://github.com/chittoralovesh/FinLoan-AI) | Smart loan eligibility and budget prediction system | Spring Boot, React, ML |
-| [**BlockCertify**](https://github.com/chittoralovesh/BlockCertify) | Blockchain-based certificate verification using IPFS & Solidity | Solidity, IPFS, Spring Boot |
-| [**Stress Sense AI**](https://github.com/chittoralovesh/Stress-sense-ai) | AI-driven real-time stress monitoring application | React, Spring Boot, ML |
+| [**FilingIQ**](https://github.com/chittoralovesh/FilingIQ) | Offline RAG over SEC filings that cites a source passage for every claim; +21.5 pts factual consistency vs. a plain LLM | Python, FastAPI, FAISS, Ollama |
+| [**AetherFlow**](https://github.com/chittoralovesh/Aetherflow) · [demo](https://aetherflow-fawn.vercel.app) | n8n-style orchestrator for AI agent workflows with multi-tenant row-level security, approval gates and live SSE streaming | Next.js, PostgreSQL, GraphQL |
+| [**InsiderSignal**](https://github.com/chittoralovesh/InsiderSignal) | Event-study backtest over 69,675 SEC Form 4 filings; insider purchases beat the market by +3.67% over 63 days | Python, pandas, scikit-learn, Streamlit |
+| [**Nivora**](https://github.com/chittoralovesh/Nivora) · [demo](https://nivora-topaz-iota.vercel.app/) | Voice-first shopping assistant that understands English, Hindi and Hinglish, with zero backend | Next.js, TypeScript, Web Speech API |
+| [**RescueMesh-AI**](https://github.com/chittoralovesh/RescueMesh-AI) | Disaster-response platform with a Spring Boot API, React dashboard and Python ML service, all Dockerized | Java, Spring Boot, React, Python, Docker |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C67CA,100:E0BDAB&height=3&width=1000" width="100%"/>
 
